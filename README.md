@@ -1,5 +1,5 @@
 # Getting Started with Create React App<br />
-This project was bootstrapped with Create React App.<br />
+This project has been boostrapped with Create React App.<br />
 
 # Available Scripts<br />
 In the project directory, you can run:<br />
