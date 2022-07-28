@@ -1,4 +1,4 @@
-# getting Started with Creat React App<br />
+# Getting Started with Creat React App<br />
 This project has been boostrapped with Create React App.<br />
 
 # Available Scripts<br />
